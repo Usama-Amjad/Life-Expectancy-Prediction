@@ -1,16 +1,16 @@
 # Life_Expectancy_Prediction
-This project on Life Expectancy Prediction with Machine Learning is divided into the following tasks:
+In this project, we trained a Linear Regression model to predict life expectancy. The dataset was initially obtained from the World Health Organization (WHO) and United Nations Websites. Data contains features such as year, status, life expectancy, adult mortality, infant deaths, percentage of expenditure, and alcohol consumption.In this project we did following tasks:
 
-1-Understand the problem statement and business case
+1-Assess the performance of regression models and visualize the performance of the best model using various KPIs.
 
-2-Import libraries/datasets 
+2-Understand the difference between various regression models KPIs such as MSE, RMSE, MAE, R2, and adjusted R2.
 
-3-Perform Exploratory Data Analysis and Data Visualization
+3-Train and Evaluate linear regression model using Sci-kit Learn library.
 
-4-Prepare the data before model training
+4-Perform exploratory data analysis and standardize the training and testing data.
 
-5-Understand the intuition behind Linear Regression Model 
+5-Import Key python libraries, dataset and perform data visualization
 
-6-Train a Linear regression model in Scikit-Learn
+6-Understand the theory and intuition behind Multiple Linear Regression.
 
-7-Evaluate trained model Performance
+7-Understand the distribution and relationship of data
